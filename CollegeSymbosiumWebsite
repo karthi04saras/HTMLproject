@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Symbosium</title>
+        <link rel="icon" href="vsb logo.png">
+    </head>
+    <style>
+        body{
+            background-image: url('profess.jpeg'); 
+            background-size: cover;  
+            background-position: center center; 
+            background-repeat: no-repeat;
+            height: 100vh; 
+            margin: 0; 
+            height:100%
+        }
+    </style>
+    <body>
+        <center>
+            <h1>Upcoming events📅 </h1>
+            <h2>A warm welcome to everyone gathered here today for this inspiring symposium, where ideas converge and innovation thrives! </h2> <hr>
+        </center>
+            <p>Organizing a symposium involves balancing technical events like paper presentations, hackathons, and workshops with non-technical activities such as quizzes, debates, and cultural performances. Effective planning and coordination ensure a platform for learning, networking, and enjoyment for all participants.</p>
+           <table border="1">
+            <tr>
+            <th>Technical events</th>
+            <th>Non technical events</th>
+            </tr>
+            <tr>
+                <td>1.paper presentation</td>
+                <td>1.find the song</td>
+            </tr>
+            <tr>
+                <td>2.coding</td>
+                <td>2.quizezz</td>
+            </tr>
+            <tr>
+                <td>3.technical quiz</td>
+                <td>3.fun games</td>
+            </tr>
+        </table>
+        <h4>Prize Distribution</h4>
+        <ol>
+            <li>Announce winners for competitions and honor them with prizes.</li>
+            <li>Express appreciation for participants' efforts.</li>
+        </ol>
+        <h4>DATE:</h4><p>January 20,2025</p>
+        <h4>Accomodation</h4>
+        <ol>
+            <li>Refreshment: Provided during small breaks for each event.[10.30 AM to 10.50 AM]</li>
+            <li>Lunch: Scheduled after specific events or between sessions.[12.30 PM to 1.30 PM]</li>
+        </ol>
+    </body>
+</html>
