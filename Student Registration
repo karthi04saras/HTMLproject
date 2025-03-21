@@ -1,0 +1,71 @@
+<style>
+    body {
+        display: flex;
+        justify-content: center; 
+        align-items: center; 
+        height: 100vh; 
+        margin: 0;
+        background-color: lightcoral;
+    }
+    .form-container {
+        background: rgb(235, 210, 210);
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+        width: 300px;
+        text-align: center;
+    }
+    input, select, button {
+        width: 100%;
+        margin: 5px 0;
+        padding: 8px;
+    }
+        
+</style>
+<center>
+    <div class="form-container">
+        <center><h1 style="color:blue">Student Registration</h1></center>
+    <form >
+    <table>
+        <tr>
+            <td>Name :</td><td><input type="text" placeholder="Enter your name"></td>
+        </tr>
+        <tr>
+            <td>Age :</td><td><input type="number" placeholder="Enter your age"></td>
+        </tr>
+        <tr>
+            <td>Address :</td><td><input placeholder="Enter your address"></td>
+        </tr>
+        <tr>
+            <td>Gender :</td>
+            <td>
+                <select>
+                    <option value="">Select</option>                   
+                     <option>Male</option>
+                    <option>Female</option>
+                    <option>other</option>
+                </select>
+            </td>
+        </tr>
+        <tr></tr>
+        <tr></tr>
+        </tr>
+        <tr>
+            <td>Department :</td>
+            <td>
+                <select>
+                    <option>Python programming</option>
+                    <option>SQL
+                    </option>
+                    <option>Java programmin</option>
+                    <option>Web development</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td></td><td><input type="submit"> <input type="reset"></td>
+        </tr>
+        </table>
+    </form>
+</div>
+</center>
